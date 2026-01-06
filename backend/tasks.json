@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Завершить проект Vue 3",
+    "description": "Реализовать полный функционал менеджера задач на Vue 3",
+    "priority": "high",
+    "category": "Работа",
+    "important": true,
+    "completed": true,
+    "created_at": "2024-01-01T10:00:00",
+    "updated_at": "2024-01-05T14:30:00"
+  },
+  {
+    "id": 2,
+    "title": "Настроить Docker контейнеры",
+    "description": "Создать Dockerfile для фронтенда и бэкенда",
+    "priority": "high",
+    "category": "Работа",
+    "important": true,
+    "completed": false,
+    "created_at": "2024-01-02T09:15:00",
+    "updated_at": "2024-01-02T09:15:00"
+  },
+  {
+    "id": 3,
+    "title": "Прочитать документацию FastAPI",
+    "description": null,
+    "priority": "medium",
+    "category": "Учеба",
+    "important": false,
+    "completed": true,
+    "created_at": "2024-01-03T11:20:00",
+    "updated_at": "2024-01-03T16:45:00"
+  },
+  {
+    "id": 4,
+    "title": "Купить продукты на неделю",
+    "description": "Молоко, хлеб, яйца, овощи",
+    "priority": "low",
+    "category": "Личное",
+    "important": false,
+    "completed": false,
+    "created_at": "2024-01-04T08:00:00",
+    "updated_at": "2024-01-04T08:00:00"
+  },
+  {
+    "id": 5,
+    "title": "Позвонить другу",
+    "description": null,
+    "priority": "medium",
+    "category": "Личное",
+    "important": false,
+    "completed": false,
+    "created_at": "2024-01-04T15:30:00",
+    "updated_at": "2024-01-04T15:30:00"
+  }
+]
